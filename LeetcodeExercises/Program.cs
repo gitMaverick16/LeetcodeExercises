@@ -3,7 +3,7 @@ using LeetcodeExercises.Easy;
 
 Console.WriteLine("Hello, World!");
 
-var result = LongestCommonPrefix.LongestCommonPrefix2(new string[] { "abbb", "a", "accc", "aa" });
+var result = ValidParentheses.IsValid("([)]");
 
 public static class Solution
 {
